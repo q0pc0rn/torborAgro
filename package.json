@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "app",
   "version": "0.1.0",
   "private": true,
@@ -28,4 +29,24 @@
     "last 2 versions",
     "not ie <= 8"
   ]
+=======
+  "name": "torborAgro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q0pc0rn/torborAgro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q0pc0rn/torborAgro/issues"
+  },
+  "homepage": "https://github.com/q0pc0rn/torborAgro#readme"
+>>>>>>> 1cc922772acb9dcc74c85877816c744d11fa8e6c
 }
